@@ -1,0 +1,42 @@
+body{
+
+    background:url("unilag.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 60%;
+    
+
+
+}
+
+form{
+
+    background-color:black;
+
+    margin: 300px;
+    padding: 100px;
+    color:white;
+    padding-top: 3px;
+}
+
+
+input{
+
+    background:transparent;
+    border: none;
+    border-bottom: 3px solid white;
+    width: 200px;
+    color: white;
+
+
+}
+
+
+button{
+
+    padding: 10px;
+    width:150px;
+    color: black;
+    background-color: orange;
+    border: none;
+}

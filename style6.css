@@ -1,0 +1,44 @@
+@media(min-width:320px) and (max-width:1600px){
+body{
+    
+  background:url('jamb.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  opacity: 70%;
+}
+input{
+    color: aqua;
+    margin: 3px;
+    padding: 2px;
+    background:transparent;
+    }
+    form{
+        color: aqua;
+        margin: 20px;
+        padding: 10px;
+    }
+    button{
+        background-color:transparent;
+        background: transparent;
+        border: none;
+        }  
+    }
+    
+    @media(min-width:481) and(max-width:1200px){
+        body{
+            color: blue;
+        }
+    }
+    @media(min-width:1201px)and(max-width:1600px){
+        body{
+            color: lime;
+        }
+    }
+    
+
+
+
+
+
+

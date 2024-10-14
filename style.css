@@ -1,0 +1,48 @@
+   .raheemah {background-image:url("016.jpg");
+background-size: cover;
+        }
+        h1{
+background-color: azure;}
+h2{
+    background-color: rgb(0, 255, 179); font-style: italic;
+
+}
+ 
+    
+    h3{
+        background-color: aliceblue;
+    }
+    
+    h4{
+         background-color: azure;
+    }
+    h5{
+         background-color: bisque;
+    } 
+    h6{ 
+        color: brown;
+    }
+     
+    p{
+
+     color: blueviolet;
+    }
+    b{ 
+        color: aliceblue;
+    }
+    I{
+         color: aliceblue;
+        }
+
+         
+    em{   
+        color: aliceblue;
+    
+    }
+    strong{ 
+        color: darkseagreen;
+    }
+    marquee{ 
+        color: darkseagreen;}
+
+

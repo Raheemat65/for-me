@@ -1,0 +1,38 @@
+form{
+
+background-color: black;
+padding: 50px;
+text-align: center;
+margin: 400px;
+
+
+
+}
+button{
+    color: white;
+    width: 200px;
+    background-color: blue;
+    border: none;
+    height: 30px;
+}
+.egg{
+    color: aqua;
+}
+img{
+    width: 300px;
+    align-items: center;
+    color: white;
+    
+    }
+
+.fff{
+    border: none;
+
+
+}
+.ttt{
+    color:blue;
+    padding-right: 150px;
+
+}
+@media(max-width:420px) 
